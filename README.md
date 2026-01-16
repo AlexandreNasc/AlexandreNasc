@@ -1,6 +1,6 @@
 # *Óla! eu sou o Alexandre Nascimento.* 👋
 
-Estou cursando o 2° período em Desenvolvimento de sistema pela EREM Escola Técnica Estadual Professor Antônio Carlos Gomes da Costa [(ETEPAC)](https://www.linkedin.com/school/se-etepac/?originalSubdomain=br)
+Tecnologo em Análise e desenvolvimento de sistemas
 
 ### *Link de contato*
 
